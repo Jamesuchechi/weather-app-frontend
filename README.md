@@ -1,8 +1,6 @@
 # weather-app-frontend
 
 
-Here's a simple weather app frontend using HTML, CSS, and JavaScript:
-
 HTML (index.html)
 ```
 <!DOCTYPE html>
